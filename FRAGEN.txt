@@ -1,0 +1,20 @@
+00000 Entwicklungsumgebungen
+00001 In einer Entwicklungsumgebung sind zahlreiche Komponenten wie z.B. Editor, Compiler und Debugger integriert. Welche der nachfolgenden Formulierungen trifft im Zusammenhang mit den Komponenten einer Entwicklungsumgebung nicht zu? Bitte wählen Sie nur eine Antwortmöglichkeit aus! Wenn alle aufgeführten Formulierungen zutreffen sollten, wählen Sie bitte die letzte Auswahlmöglichkeit aus.
+00002 Mit Hilfe eines Debuggers kann der Programmablauf unterbrochen werden.
+00003 Der Begriff Source Code steht für den Programmtext einer Anwendung.
+00004 Ein Compiler ist ein Übersetzungsprogramm für die Softwareerstellung.
+00005 Bei einem Interpreter wird der Quelltext übersetzt und direkt ausgeführt.
+00006 Ein Debugger beachtet die im Quelltext gesetzten Breakpoints.
+00007 Alle Formulierungen treffen zu.
+00009 00007
+00010 Objektorientierung
+00011 In der objektorientierten Programmierung können Objekte mit Hilfe des Operators newerzeugt werden. Wie heißt im objektorientiertenProgrammierparadigma der entsprechende Fachbegriff für diesen Vorgang? Bitte wählen Sie nur eine Antwortmöglichkeit aus! Wenn alle Begriffe nicht zutreffen sollten, wählen Sie bitte die letzte Auswahlmöglichkeit aus.
+00012 Objektivität
+00013 Sichtbarkeit
+00014 Initialisierung
+00015 Modellierung
+00016 Instanziierung
+00017 Elementarisierung
+00018 Keiner der genannten Begriffe trifft zu.
+00019 00016 
+1 
