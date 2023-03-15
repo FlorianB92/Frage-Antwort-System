@@ -10,12 +10,12 @@ using System.Text.RegularExpressions;
 
 namespace FrageAntwortSystem
 {
-    public class Breitsprecher
+    public class User
     {
         static bool quiz_aktiv = true;
         static int richtige_fragen = 0;
         static string eingabe;
-        public Breitsprecher()
+        public User()
         {
             //Dieser Konstruktor bleibt leer
         }

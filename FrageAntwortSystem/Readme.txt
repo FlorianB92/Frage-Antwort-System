@@ -1,0 +1,1 @@
+Die .exe ist in den Ordner bin\Debug\

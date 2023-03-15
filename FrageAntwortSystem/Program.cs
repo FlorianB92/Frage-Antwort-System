@@ -15,9 +15,9 @@ namespace FrageAntwortSystem
             // Programm starten
             Console.WriteLine("FRAGE-ANTWORT-SYSTEM\n********************\n");
             //Aufruf der Methode "Ausführen()" im instanziierten Klasse
-            // swnobjekt "breitsprecher" der projektspezifischen Klasse "Breitsprecher"
-            Breitsprecher breitsprecher = new Breitsprecher();
-            breitsprecher.Ausfueren();
+            // swnobjekt "user" der projektspezifischen Klasse "User"
+            User user = new User();
+            user.Ausfueren();
             Console.WriteLine();
 
             //Programm anhalten
